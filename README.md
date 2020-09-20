@@ -1,3 +1,2 @@
-# python_projects
-few python projects by me as resources
 # python_snake_game
+Classic replica of snake game made using pygame library.
